@@ -30,7 +30,7 @@ namespace WebPruebaAccesoSQL
                  @"Data Source=DESKTOP-0J2HDN7\SQLEXPRESS2017; Initial Catalog=BDTIENDA; Integrated Security = true;");
                  */
                 objacc = new ClassAccesoSQL(
-                    @"Data Source=DESKTOP-0J2HDN7\SQLEXPRESS2017; Initial Catalog=BDTIENDA; Integrated Security = true;");
+                    @"Data Source=DESKTOP-H5Q2S4F\MSSQLSERVER01; Initial Catalog=BDTIENDA; Integrated Security = true;");
                 Session["objacc"] = objacc;
             }
             else
